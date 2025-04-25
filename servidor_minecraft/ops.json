@@ -4,5 +4,11 @@
     "name": "Abstem",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "78fc78a0-3011-3de1-8c0b-d0ae27a7611d",
+    "name": "ReiAstora",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
