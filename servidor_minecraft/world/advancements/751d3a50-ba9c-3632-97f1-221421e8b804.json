@@ -33,7 +33,9 @@
     "criteria": {
       "minecraft:beach": "2025-04-25 21:33:56 +0000",
       "minecraft:forest": "2025-04-25 21:33:47 +0000",
+      "minecraft:taiga": "2025-04-25 22:54:48 +0000",
       "minecraft:ocean": "2025-04-25 22:40:11 +0000",
+      "minecraft:river": "2025-04-25 22:50:21 +0000",
       "minecraft:birch_forest": "2025-04-25 22:16:46 +0000",
       "minecraft:plains": "2025-04-25 22:34:58 +0000"
     },
@@ -75,21 +77,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_rotten_flesh": "2025-04-25 22:31:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-04-25 22:41:01 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/blossom_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-04-25 22:35:01 +0000"
+      "crafting_table": "2025-04-25 22:16:41 +0000"
     },
     "done": true
   },
@@ -117,12 +107,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-04-25 22:37:55 +0000"
-    },
-    "done": true
-  },
   "eternal_starlight:recipes/transportation/torreya_boat": {
     "criteria": {
       "in_water": "2025-04-25 22:30:01 +0000"
@@ -138,18 +122,6 @@
   "eternal_starlight:recipes/transportation/lunar_boat": {
     "criteria": {
       "in_water": "2025-04-25 22:30:01 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_fletching_table": {
-    "criteria": {
-      "has_flint": "2025-04-25 22:41:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-04-25 22:46:03 +0000"
     },
     "done": true
   },
@@ -171,27 +143,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-04-25 22:41:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-04-25 22:37:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-25 22:30:01 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/shadow_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-04-25 22:35:01 +0000"
     },
     "done": true
   },
@@ -213,15 +167,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "has_logs": "2025-04-25 22:37:55 +0000"
+      "in_water": "2025-04-25 22:30:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
     "criteria": {
-      "has_flint": "2025-04-25 22:41:01 +0000"
+      "has_rotten_flesh": "2025-04-25 22:31:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-25 22:35:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-25 22:35:01 +0000"
     },
     "done": true
   },
@@ -231,9 +197,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_prismarine_crystals": "2025-04-25 22:46:10 +0000"
+      "has_log": "2025-04-25 22:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-25 22:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-25 22:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-25 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-25 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-25 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-25 22:41:01 +0000"
     },
     "done": true
   },
@@ -243,21 +245,177 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-25 22:46:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_grindstone": {
     "criteria": {
       "has_stone_slab": "2025-04-25 22:46:03 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "crafting_table": "2025-04-25 22:16:41 +0000"
+      "has_prismarine_crystals": "2025-04-25 22:46:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "in_water": "2025-04-25 22:30:01 +0000"
+      "has_golden_axe": "2025-04-25 22:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-25 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-04-25 22:56:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-04-25 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-25 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-04-25 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-25 22:55:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-04-25 22:55:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-04-25 22:56:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-04-25 22:56:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-04-25 22:56:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-04-25 22:56:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-04-25 22:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-25 22:58:56 +0000"
     },
     "done": true
   },
