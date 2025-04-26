@@ -4626,5 +4626,47 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-04-26 15:48:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_sword_repairing": {
+    "criteria": {
+      "has_gravitite_sword": "2025-04-26 15:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-04-26 15:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-04-26 15:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_door": "2025-04-26 15:47:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
+    "criteria": {
+      "has_light_blue_wool": "2025-04-26 15:48:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2025-04-26 15:48:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
