@@ -1002,3 +1002,6 @@
 [16:01:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cd498922-028e-3338-a232-f7ea932f2e8c
 [16:01:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player StnAxel (cd498922-028e-3338-a232-f7ea932f2e8c) successfully connected to voice chat
 [16:01:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/13394, l='ServerLevel[world]', x=-299.93, y=67.00, z=87.29]
+[16:02:09] [Server thread/INFO]: StnAxel lost connection: Disconnected
+[16:02:09] [Server thread/INFO]: StnAxel left the game
+[16:02:09] [Server thread/INFO]: [voicechat] Disconnecting client StnAxel
