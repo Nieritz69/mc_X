@@ -843,3 +843,33 @@
 [15:11:47] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
 [15:11:47] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [15:11:47] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[15:24:56] [Server thread/INFO]: StnAxel[/192.168.195.26:53056] logged in with entity id 27 at (2.5, 64.0, 9.5)
+[15:24:56] [Server thread/INFO]: Sending server config values to client
+[15:24:56] [Server thread/INFO]: Loading config from file...
+[15:24:56] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[15:24:56] [Server thread/INFO]: StnAxel joined the game
+[15:25:05] [Server thread/INFO]: [voicechat] Received secret request of StnAxel (18)
+[15:25:05] [Server thread/INFO]: [voicechat] Sent secret to StnAxel
+[15:25:06] [Server thread/INFO]: Receiving client config
+[15:25:06] [Server thread/INFO]: [ShulkerBoxTooltip] StnAxel: protocol version: 2.0
+[15:25:06] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[15:25:06] [Server thread/INFO]: [ShulkerBoxTooltip] overriding preview provider shulkerboxtooltip:trapped_chest with shulkerboxtooltip:chest for item minecraft:chest
+[15:25:06] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 31 providers for mod shulkerboxtooltip
+[15:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cd498922-028e-3338-a232-f7ea932f2e8c
+[15:25:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cd498922-028e-3338-a232-f7ea932f2e8c
+[15:25:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player StnAxel (cd498922-028e-3338-a232-f7ea932f2e8c) successfully connected to voice chat
+[15:25:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/273, l='ServerLevel[world]', x=-61.05, y=3.00, z=30.16]
+[15:25:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/279, l='ServerLevel[world]', x=-56.62, y=3.00, z=28.54]
+[15:27:31] [Server thread/INFO]: <StnAxel> a
+[15:27:54] [Server thread/INFO]: MaroDvt[/192.168.195.56:50138] logged in with entity id 512 at (-136.3142843404971, 67.0, -83.77228287265586)
+[15:27:54] [Server thread/INFO]: Sending server config values to client
+[15:27:54] [Server thread/INFO]: Loading config from file...
+[15:27:54] [Server thread/INFO]: MaroDvt joined the game
+[15:27:58] [Server thread/INFO]: [voicechat] Received secret request of MaroDvt (18)
+[15:27:58] [Server thread/INFO]: [voicechat] Sent secret to MaroDvt
+[15:27:58] [Server thread/INFO]: Receiving client config
+[15:27:58] [Server thread/INFO]: [ShulkerBoxTooltip] MaroDvt: protocol version: 2.0
+[15:27:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bf555bd4-6d95-3926-92a4-3f8b8447fc07
+[15:28:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bf555bd4-6d95-3926-92a4-3f8b8447fc07
+[15:28:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MaroDvt (bf555bd4-6d95-3926-92a4-3f8b8447fc07) successfully connected to voice chat
+[15:30:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/1767, l='ServerLevel[world]', x=-221.60, y=6.27, z=-138.57]
