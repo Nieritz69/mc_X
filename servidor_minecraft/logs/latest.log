@@ -1008,3 +1008,20 @@
 [23:08:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/13272, l='ServerLevel[world]', x=-219.37, y=21.00, z=24.30]
 [23:10:04] [Server thread/INFO]: MaroDvt has made the advancement [Minecraft: Trial(s) Edition]
 [23:10:16] [Server thread/INFO]: MaroDvt was slain by Zombie
+[23:12:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/14636, l='ServerLevel[world]', x=-198.03, y=46.00, z=7.30]
+[23:12:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/14637, l='ServerLevel[world]', x=-198.03, y=46.00, z=7.30]
+[23:12:37] [Server thread/INFO]: MaroDvt was slain by Zombie
+[23:14:07] [Server thread/INFO]: MaroDvt has made the advancement [Sweet Dreams]
+[23:16:36] [Server thread/INFO]: MaroDvt was slain by Zombie
+[23:18:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Shovel'/16187, l='ServerLevel[world]', x=-251.81, y=66.00, z=-32.80]
+[23:18:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/16294, l='ServerLevel[world]', x=-225.63, y=66.00, z=15.47]
+[23:19:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/16472, l='ServerLevel[world]', x=-271.14, y=75.00, z=-109.49]
+[23:19:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/16503, l='ServerLevel[world]', x=-248.13, y=21.00, z=-6.86]
+[23:19:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/16528, l='ServerLevel[world]', x=-248.72, y=21.00, z=-6.75]
+[23:20:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/16603, l='ServerLevel[world]', x=-249.74, y=21.00, z=-5.50]
+[23:20:17] [Server thread/INFO]: MaroDvt lost connection: Disconnected
+[23:20:17] [Server thread/INFO]: MaroDvt left the game
+[23:20:17] [Server thread/INFO]: [voicechat] Disconnecting client MaroDvt
+[23:21:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/16817, l='ServerLevel[world]', x=-263.59, y=64.00, z=-76.38]
+[23:21:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/16825, l='ServerLevel[world]', x=-259.67, y=64.00, z=-74.64]
+[23:21:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/16856, l='ServerLevel[world]', x=-214.70, y=-31.00, z=-45.69]
