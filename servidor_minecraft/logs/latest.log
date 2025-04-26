@@ -873,3 +873,36 @@
 [15:28:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bf555bd4-6d95-3926-92a4-3f8b8447fc07
 [15:28:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MaroDvt (bf555bd4-6d95-3926-92a4-3f8b8447fc07) successfully connected to voice chat
 [15:30:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/1767, l='ServerLevel[world]', x=-221.60, y=6.27, z=-138.57]
+[15:32:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/2255, l='ServerLevel[world]', x=-226.29, y=29.17, z=-199.70]
+[15:32:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/2256, l='ServerLevel[world]', x=-226.29, y=29.17, z=-199.70]
+[15:32:46] [RCON Listener #1/INFO]: Thread RCON Client /192.168.195.116 started
+[15:32:54] [Server thread/INFO]: [Rcon: Set the time to 1000]
+[15:33:03] [Server thread/INFO]: MaroDvt was slain by StnAxel
+[15:33:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player bf555bd4-6d95-3926-92a4-3f8b8447fc07 timed out
+[15:33:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player MaroDvt
+[15:33:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to MaroDvt
+[15:33:28] [Server thread/INFO]: * Rcon lol
+[15:33:40] [Server thread/INFO]: MaroDvt lost connection: Timed out
+[15:33:40] [Server thread/INFO]: MaroDvt left the game
+[15:33:40] [Server thread/INFO]: [voicechat] Disconnecting client MaroDvt
+[15:33:40] [Server thread/WARN]: handleDisconnection() called twice
+[15:37:04] [Server thread/INFO]: Kotori003[/192.168.195.156:8087] logged in with entity id 3544 at (-224.64148717309774, 68.16645145741272, 682.0083842365145)
+[15:37:04] [Server thread/INFO]: Sending server config values to client
+[15:37:04] [Server thread/INFO]: Loading config from file...
+[15:37:04] [Server thread/INFO]: Kotori003 joined the game
+[15:37:08] [Server thread/INFO]: [voicechat] Received secret request of Kotori003 (18)
+[15:37:08] [Server thread/INFO]: [voicechat] Sent secret to Kotori003
+[15:37:09] [Server thread/INFO]: Receiving client config
+[15:37:09] [Server thread/INFO]: [ShulkerBoxTooltip] Kotori003: protocol version: 2.0
+[15:37:09] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[15:37:09] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[15:37:09] [Server thread/INFO]: StnAxel has made the advancement [We Need to Go Deeper]
+[15:37:09] [Server thread/INFO]: StnAxel has made the advancement [Time for a Sweat]
+[15:37:09] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[15:37:09] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[15:37:11] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[15:37:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5
+[15:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5
+[15:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Kotori003 (f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5) successfully connected to voice chat
+[15:39:36] [Server thread/INFO]: * Rcon lol
+[15:40:14] [Server thread/INFO]: [Rcon: Set the time to 1000]
