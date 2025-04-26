@@ -912,3 +912,71 @@
 [22:40:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 751d3a50-ba9c-3632-97f1-221421e8b804
 [22:40:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 751d3a50-ba9c-3632-97f1-221421e8b804
 [22:40:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rei_Astora (751d3a50-ba9c-3632-97f1-221421e8b804) successfully connected to voice chat
+[22:41:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/3893, l='ServerLevel[world]', x=-144.47, y=5.00, z=-67.61]
+[22:42:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/4096, l='ServerLevel[world]', x=-210.70, y=-6.00, z=-64.51]
+[22:44:05] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to MaroDvt]
+[22:44:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/4329, l='ServerLevel[world]', x=-286.12, y=10.00, z=-38.71]
+[22:44:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/4330, l='ServerLevel[world]', x=-286.12, y=10.00, z=-38.71]
+[22:44:21] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to Kotori003]
+[22:44:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/4398, l='ServerLevel[world]', x=-261.30, y=18.00, z=-43.19]
+[22:44:48] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to MaroDvt]
+[22:44:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/4411, l='ServerLevel[world]', x=-262.33, y=18.00, z=-43.44]
+[22:45:15] [Server thread/INFO]: Rei_Astora has made the advancement [Stone Age]
+[22:45:21] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to Kotori003]
+[22:45:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/4518, l='ServerLevel[world]', x=-283.50, y=25.00, z=-23.08]
+[22:45:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/4532, l='ServerLevel[world]', x=-284.19, y=25.00, z=-22.95]
+[22:45:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/4548, l='ServerLevel[world]', x=-283.49, y=25.00, z=-23.73]
+[22:45:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Cod'/4573, l='ServerLevel[world]', x=-250.60, y=32.00, z=-85.91]
+[22:46:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Shovel'/4591, l='ServerLevel[world]', x=-288.85, y=25.00, z=-21.70]
+[22:46:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/4592, l='ServerLevel[world]', x=-288.85, y=25.00, z=-21.70]
+[22:46:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/4915, l='ServerLevel[world]', x=-247.66, y=1.00, z=-55.61]
+[22:47:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/5208, l='ServerLevel[world]', x=-288.67, y=25.94, z=-15.64]
+[22:47:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/5209, l='ServerLevel[world]', x=-288.67, y=25.94, z=-15.64]
+[22:47:17] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to -268.500000, 65.500000, 769.500000]
+[22:47:25] [Server thread/INFO]: [Rei_Astora: Teleported Kotori003 to Rei_Astora]
+[22:47:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/5820, l='ServerLevel[world]', x=-289.62, y=25.00, z=-0.17]
+[22:47:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/5821, l='ServerLevel[world]', x=-289.62, y=25.00, z=-0.17]
+[22:47:55] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to MaroDvt]
+[22:48:14] [Server thread/INFO]: [Rei_Astora: Teleported Kotori003 to Rei_Astora]
+[22:48:24] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to -269.500000, 64.500000, -76.500000]
+[22:48:28] [Server thread/INFO]: [Rei_Astora: Teleported Kotori003 to Rei_Astora]
+[22:48:42] [Server thread/WARN]: Rei_Astora moved too quickly! 1.349767689584553,-10.192893580341561,2.1678168079462097
+[22:49:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/6914, l='ServerLevel[world]', x=-304.70, y=27.00, z=-5.30]
+[22:49:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/6915, l='ServerLevel[world]', x=-304.70, y=27.00, z=-5.30]
+[22:49:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/6916, l='ServerLevel[world]', x=-304.70, y=27.00, z=-5.30]
+[22:50:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/7056, l='ServerLevel[world]', x=-302.08, y=13.00, z=-22.95]
+[22:50:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/7076, l='ServerLevel[world]', x=-301.30, y=13.00, z=-23.70]
+[22:50:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/7220, l='ServerLevel[world]', x=-299.30, y=18.00, z=-18.48]
+[22:50:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/7239, l='ServerLevel[world]', x=-265.44, y=40.00, z=-76.96]
+[22:50:57] [Server thread/INFO]: <Kotori003> asd
+[22:51:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/7563, l='ServerLevel[world]', x=-179.40, y=-9.00, z=-96.96]
+[22:53:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/8310, l='ServerLevel[world]', x=-91.87, y=-3.00, z=84.40]
+[22:54:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/8607, l='ServerLevel[world]', x=-334.21, y=65.00, z=-21.45]
+[22:54:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/8608, l='ServerLevel[world]', x=-334.21, y=65.00, z=-21.45]
+[22:54:23] [Server thread/INFO]: Kotori003 lost connection: Timed out
+[22:54:23] [Server thread/INFO]: Kotori003 left the game
+[22:54:23] [Server thread/INFO]: [voicechat] Disconnecting client Kotori003
+[22:54:23] [Server thread/WARN]: handleDisconnection() called twice
+[22:54:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/8728, l='ServerLevel[world]', x=-336.30, y=65.00, z=-25.10]
+[22:54:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/8729, l='ServerLevel[world]', x=-336.30, y=65.00, z=-25.10]
+[22:54:40] [Server thread/INFO]: Kotori003[/192.168.195.156:41266] logged in with entity id 8745 at (-276.7281820813153, 71.0, -86.67183598832104)
+[22:54:40] [Server thread/INFO]: Sending server config values to client
+[22:54:40] [Server thread/INFO]: Loading config from file...
+[22:54:40] [Server thread/INFO]: Kotori003 joined the game
+[22:54:43] [Server thread/INFO]: [voicechat] Received secret request of Kotori003 (18)
+[22:54:43] [Server thread/INFO]: [voicechat] Sent secret to Kotori003
+[22:54:43] [Server thread/INFO]: Receiving client config
+[22:54:43] [Server thread/INFO]: [ShulkerBoxTooltip] Kotori003: protocol version: 2.0
+[22:54:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5
+[22:54:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5
+[22:54:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Kotori003 (f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5) successfully connected to voice chat
+[22:56:33] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to MaroDvt]
+[22:57:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9705, l='ServerLevel[world]', x=-105.39, y=-40.00, z=151.42]
+[22:57:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9818, l='ServerLevel[world]', x=-311.50, y=70.02, z=-12.81]
+[22:57:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/9856, l='ServerLevel[world]', x=-131.67, y=-44.00, z=93.78]
+[22:57:52] [Server thread/INFO]: Rei_Astora has made the advancement [Ol' Betsy]
+[22:57:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/9882, l='ServerLevel[world]', x=-332.40, y=63.00, z=-54.63]
+[22:57:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9883, l='ServerLevel[world]', x=-332.40, y=63.00, z=-54.63]
+[22:58:04] [Server thread/INFO]: [Rei_Astora: Teleported Rei_Astora to MaroDvt]
+[22:58:09] [Server thread/INFO]: Rei_Astora has made the advancement [Diamonds!]
+[23:01:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/10771, l='ServerLevel[world]', x=-128.58, y=-44.00, z=133.96]
