@@ -92,6 +92,7 @@
       "apple": "2025-04-25 21:17:27 +0000",
       "bread": "2025-04-25 22:31:42 +0000",
       "rotten_flesh": "2025-04-25 20:23:50 +0000",
+      "enchanted_golden_apple": "2025-04-26 23:00:44 +0000",
       "cooked_mutton": "2025-04-25 20:24:27 +0000",
       "glow_berries": "2025-04-25 20:39:04 +0000",
       "cooked_cod": "2025-04-25 20:27:47 +0000",
@@ -5620,6 +5621,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-26 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-26 23:00:38 +0000"
     },
     "done": true
   },
