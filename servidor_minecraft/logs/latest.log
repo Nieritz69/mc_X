@@ -576,3 +576,59 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.Cust
 [01:56:13] [Server thread/INFO]: Kotori003 has made the advancement [Red Nether]
 [01:56:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/50170, l='ServerLevel[world]', x=-274.73, y=75.00, z=-104.91]
 [01:57:07] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/50254, l='ServerLevel[world]', x=-198.48, y=6.00, z=-183.81]
+[02:02:57] [Server thread/INFO]: Kotori003 has made the advancement [Don't Count Your Moas...]
+[02:03:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/51452, l='ServerLevel[world]', x=-276.53, y=75.21, z=-55.29]
+[02:03:25] [Server thread/INFO]: Power_201[/192.168.195.244:58400] logged in with entity id 51457 at (1.5, 64.0, 3.5)
+[02:03:25] [Server thread/INFO]: Sending server config values to client
+[02:03:25] [Server thread/INFO]: Loading config from file...
+[02:03:25] [Server thread/INFO]: Power_201 joined the game
+[02:03:29] [Server thread/INFO]: [voicechat] Received secret request of Power_201 (18)
+[02:03:29] [Server thread/INFO]: [voicechat] Sent secret to Power_201
+[02:03:30] [Server thread/INFO]: Receiving client config
+[02:03:30] [Server thread/INFO]: [ShulkerBoxTooltip] Power_201: protocol version: 2.0
+[02:03:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9933d80e-fbb1-3cdf-9cac-6ae1c42c6987
+[02:03:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9933d80e-fbb1-3cdf-9cac-6ae1c42c6987
+[02:03:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Power_201 (9933d80e-fbb1-3cdf-9cac-6ae1c42c6987) successfully connected to voice chat
+[02:04:06] [Server thread/INFO]: [Rei_Astora: Teleported Power_201 to Kotori003]
+[02:04:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/51855, l='ServerLevel[world]', x=-302.32, y=30.00, z=13.56]
+[02:04:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/51979, l='ServerLevel[world]', x=-202.60, y=0.01, z=-115.19]
+[02:05:36] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.basis.StoneLanternBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:06:27] [Server thread/INFO]: Smith_21[/192.168.195.51:55956] logged in with entity id 52187 at (-7.5, 68.0, 4.5)
+[02:06:27] [Server thread/INFO]: Sending server config values to client
+[02:06:27] [Server thread/INFO]: Loading config from file...
+[02:06:27] [Server thread/INFO]: Smith_21 joined the game
+[02:06:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52454, l='ServerLevel[world]', x=-306.19, y=52.00, z=-206.48]
+[02:07:12] [Server thread/INFO]: [voicechat] Received secret request of Smith_21 (18)
+[02:07:12] [Server thread/INFO]: [voicechat] Sent secret to Smith_21
+[02:07:12] [Server thread/INFO]: Receiving client config
+[02:07:12] [Server thread/INFO]: [ShulkerBoxTooltip] Smith_21: protocol version: 2.0
+[02:07:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c0cbe18e-5127-389d-ad36-63abd4f0e60b
+[02:07:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c0cbe18e-5127-389d-ad36-63abd4f0e60b
+[02:07:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Smith_21 (c0cbe18e-5127-389d-ad36-63abd4f0e60b) successfully connected to voice chat
+[02:07:37] [Server thread/INFO]: Abstem[/192.168.195.116:50249] logged in with entity id 52660 at (-271.7077726477914, 84.53292827534491, 730.5350975699297)
+[02:07:37] [Server thread/INFO]: Sending server config values to client
+[02:07:37] [Server thread/INFO]: Loading config from file...
+[02:07:37] [Server thread/INFO]: Abstem joined the game
+[02:07:41] [Server thread/INFO]: [voicechat] Received secret request of Abstem (18)
+[02:07:41] [Server thread/INFO]: [voicechat] Sent secret to Abstem
+[02:07:41] [Server thread/INFO]: Receiving client config
+[02:07:41] [Server thread/INFO]: [ShulkerBoxTooltip] Abstem: protocol version: 2.0
+[02:07:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a91b87df-03c6-373e-9dea-e9011f30c9fc
+[02:07:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a91b87df-03c6-373e-9dea-e9011f30c9fc
+[02:07:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abstem (a91b87df-03c6-373e-9dea-e9011f30c9fc) successfully connected to voice chat
+[02:07:53] [Server thread/INFO]: [Abstem: Teleported Abstem to Rei_Astora]
+[02:08:01] [Server thread/INFO]: Kotori003 has made the advancement [Challenger to the Throne]
+[02:08:21] [Server thread/INFO]: [Rei_Astora: Teleported Smith_21 to Rei_Astora]
+[02:08:29] [Server thread/INFO]: Power_201 was slain by Zombie
+[02:08:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/53373, l='ServerLevel[world]', x=-275.15, y=74.00, z=-62.12]
+[02:08:54] [Server thread/INFO]: [Rei_Astora: Teleported Power_201 to Kotori003]
+[02:08:56] [Server thread/INFO]: [Abstem: Set the time to 1000]
+[02:09:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/53576, l='ServerLevel[world]', x=-295.28, y=72.00, z=-100.83]
+[02:09:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/53580, l='ServerLevel[world]', x=-178.21, y=0.34, z=-124.05]
+[02:09:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/53661, l='ServerLevel[world]', x=-205.35, y=-28.00, z=-52.44]
+[02:10:02] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betterend.blocks.BulbVineLanternColoredBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_322. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[02:10:23] [Server thread/INFO]: [Rei_Astora: Set Smith_21's game mode to Creative Mode]
+[02:11:12] [Server thread/INFO]: Smith_21 has completed the challenge [Cover Me in Debris]
+[02:11:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/53906, l='ServerLevel[world]', x=-277.94, y=77.10, z=-109.26]
+[02:11:51] [Server thread/INFO]: Smith_21 has made the advancement [Hot Stuff]
+[02:12:50] [Server thread/INFO]: Rei_Astora has made the advancement [Who is Cutting Onions?]
