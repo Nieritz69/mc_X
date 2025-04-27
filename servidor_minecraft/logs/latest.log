@@ -557,3 +557,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.Cust
 [01:40:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/47147, l='ServerLevel[world]', x=-283.59, y=-20.00, z=-12.48]
 [01:41:58] [Server thread/WARN]: Rei_Astora moved too quickly! -0.31295208625223836,-11.026982712340185,0.541505348509844
 [01:42:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/47575, l='ServerLevel[world]', x=-191.60, y=3.51, z=-145.60]
+[01:42:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/47801, l='ServerLevel[world]', x=-270.85, y=17.00, z=-61.51]
+[01:43:53] [Server thread/INFO]: Rei_Astora lost connection: Disconnected
+[01:43:53] [Server thread/INFO]: Rei_Astora left the game
+[01:43:53] [Server thread/INFO]: [voicechat] Disconnecting client Rei_Astora
+[01:49:44] [Server thread/INFO]: Rei_Astora[/192.168.195.240:52347] logged in with entity id 48806 at (-160.57707759613655, 68.0, -166.97132856260387)
+[01:49:44] [Server thread/INFO]: Sending server config values to client
+[01:49:44] [Server thread/INFO]: Loading config from file...
+[01:49:45] [Server thread/INFO]: Rei_Astora joined the game
+[01:49:49] [Server thread/INFO]: [voicechat] Received secret request of Rei_Astora (18)
+[01:49:49] [Server thread/INFO]: [voicechat] Sent secret to Rei_Astora
+[01:49:49] [Server thread/INFO]: Receiving client config
+[01:49:49] [Server thread/INFO]: [ShulkerBoxTooltip] Rei_Astora: protocol version: 2.0
+[01:49:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 751d3a50-ba9c-3632-97f1-221421e8b804
+[01:49:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 751d3a50-ba9c-3632-97f1-221421e8b804
+[01:49:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rei_Astora (751d3a50-ba9c-3632-97f1-221421e8b804) successfully connected to voice chat
+[01:55:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/50088, l='ServerLevel[world]', x=-252.74, y=14.00, z=-66.37]
+[01:56:13] [Server thread/INFO]: Kotori003 has made the advancement [Red Nether]
+[01:56:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/50170, l='ServerLevel[world]', x=-274.73, y=75.00, z=-104.91]
+[01:57:07] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/50254, l='ServerLevel[world]', x=-198.48, y=6.00, z=-183.81]
