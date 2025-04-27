@@ -496,3 +496,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.Cust
 [01:17:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 751d3a50-ba9c-3632-97f1-221421e8b804
 [01:17:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Rei_Astora (751d3a50-ba9c-3632-97f1-221421e8b804) successfully connected to voice chat
 [01:17:13] [Server thread/INFO]: [Rei_Astora: Teleported Kotori003 to Rei_Astora]
+[01:24:20] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:24:20] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:24:20] [Server thread/INFO]: Kotori003 has made the advancement [Time for a Sweat]
+[01:24:20] [Server thread/INFO]: Kotori003 has made the advancement [We Need to Go Deeper]
+[01:24:20] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:24:20] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:24:21] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:24:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/44461, l='ServerLevel[world]', x=-283.76, y=-20.00, z=-12.56]
+[01:24:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/44481, l='ServerLevel[world]', x=-180.40, y=0.90, z=-144.60]
+[01:25:51] [Server thread/INFO]: [Rei_Astora: Set Kotori003's game mode to Creative Mode]
+[01:26:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/44779, l='ServerLevel[world]', x=-287.30, y=23.17, z=-27.30]
+[01:26:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/44780, l='ServerLevel[world]', x=-287.30, y=23.17, z=-27.30]
+[01:27:39] [Server thread/INFO]: MaroDvt[/192.168.195.56:59044] logged in with entity id 44930 at (-266.93165209167944, 64.0, -71.64586458193004)
+[01:27:39] [Server thread/INFO]: Sending server config values to client
+[01:27:39] [Server thread/INFO]: Loading config from file...
+[01:27:39] [Server thread/INFO]: MaroDvt joined the game
+[01:27:42] [Server thread/INFO]: [voicechat] Received secret request of MaroDvt (18)
+[01:27:42] [Server thread/INFO]: [voicechat] Sent secret to MaroDvt
+[01:27:42] [Server thread/INFO]: Receiving client config
+[01:27:42] [Server thread/INFO]: [ShulkerBoxTooltip] MaroDvt: protocol version: 2.0
+[01:27:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bf555bd4-6d95-3926-92a4-3f8b8447fc07
+[01:27:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bf555bd4-6d95-3926-92a4-3f8b8447fc07
+[01:27:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MaroDvt (bf555bd4-6d95-3926-92a4-3f8b8447fc07) successfully connected to voice chat
+[01:28:52] [Server thread/INFO]: MaroDvt was slain by Zombie
+[01:29:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/45177, l='ServerLevel[world]', x=-260.33, y=64.00, z=-78.54]
+[01:29:59] [Server thread/INFO]: MaroDvt lost connection: Disconnected
+[01:29:59] [Server thread/INFO]: MaroDvt left the game
+[01:29:59] [Server thread/INFO]: [voicechat] Disconnecting client MaroDvt
+[01:31:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/45701, l='ServerLevel[world]', x=-238.23, y=65.00, z=-67.29]

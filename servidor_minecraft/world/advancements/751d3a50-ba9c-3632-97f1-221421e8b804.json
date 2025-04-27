@@ -2194,11 +2194,59 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_sword": {
+    "criteria": {
+      "has_item.betterend.tool_assembly_smithing_template": "2025-04-27 01:21:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:all_the_templates": {
+    "criteria": {
+      "got_tool": "2025-04-27 01:21:58 +0000"
+    },
+    "done": false
+  },
   "betterend:aeternium_tool_head": {
     "criteria": {
       "got_aeternium_sword_head": "2025-04-27 01:19:55 +0000"
     },
     "done": false
+  },
+  "betterend:aeternium_tool": {
+    "criteria": {
+      "got_aeternium_sword": "2025-04-27 01:23:13 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-27 01:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-27 01:22:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_sword": {
+    "criteria": {
+      "has_item.betterend.tool_assembly_smithing_template": "2025-04-27 01:21:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_sword": {
+    "criteria": {
+      "has_item.betterend.tool_assembly_smithing_template": "2025-04-27 01:21:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-04-27 01:22:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
