@@ -429,3 +429,43 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.Cust
 [01:01:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/39319, l='ServerLevel[world]', x=-285.56, y=-10.00, z=43.70]
 [01:01:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/39320, l='ServerLevel[world]', x=-285.56, y=-10.00, z=43.70]
 [01:01:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Poison'/39321, l='ServerLevel[world]', x=-285.56, y=-10.00, z=43.70]
+[01:02:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Breeze Rod'/39546, l='ServerLevel[world]', x=-289.78, y=-15.00, z=50.32]
+[01:02:54] [Server thread/INFO]: MaroDvt was struck by lightning while fighting Kotori003
+[01:03:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Breeze Rod'/39815, l='ServerLevel[world]', x=-272.61, y=-10.00, z=53.30]
+[01:03:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Breeze Rod'/39859, l='ServerLevel[world]', x=-267.70, y=-9.00, z=57.32]
+[01:04:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/40007, l='ServerLevel[world]', x=-279.09, y=-15.00, z=57.13]
+[01:04:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Poison'/40008, l='ServerLevel[world]', x=-279.09, y=-15.00, z=57.13]
+[01:04:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Breeze Rod'/40040, l='ServerLevel[world]', x=-268.83, y=-15.00, z=56.12]
+[01:04:43] [Server thread/INFO]: MaroDvt went up in flames
+[01:04:50] [Server thread/INFO]: <Kotori003> asd
+[01:04:56] [Server thread/INFO]: Kotori003 was shot by MaroDvt
+[01:05:01] [Server thread/INFO]: <Kotori003> asd
+[01:05:30] [Server thread/INFO]: MaroDvt has reached the goal [Revaulting]
+[01:05:38] [Server thread/INFO]: MaroDvt was slain by Kotori003
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40459, l='ServerLevel[world]', x=-231.96, y=-25.00, z=-43.53]
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40464, l='ServerLevel[world]', x=-231.15, y=-26.58, z=-43.67]
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40465, l='ServerLevel[world]', x=-232.18, y=-28.26, z=-41.93]
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40470, l='ServerLevel[world]', x=-230.32, y=-31.46, z=-43.77]
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40471, l='ServerLevel[world]', x=-230.35, y=-31.46, z=-43.17]
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40472, l='ServerLevel[world]', x=-229.79, y=-31.46, z=-43.20]
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40473, l='ServerLevel[world]', x=-230.98, y=-31.58, z=-42.27]
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40474, l='ServerLevel[world]', x=-231.54, y=-31.64, z=-42.13]
+[01:06:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Slimeball'/40475, l='ServerLevel[world]', x=-232.37, y=-31.64, z=-41.32]
+[01:06:41] [Server thread/INFO]: Kotori003 has reached the goal [Revaulting]
+[01:08:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/40861, l='ServerLevel[world]', x=-315.70, y=66.00, z=-42.82]
+[01:08:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/40862, l='ServerLevel[world]', x=-315.70, y=66.00, z=-42.82]
+[01:09:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/40990, l='ServerLevel[world]', x=-280.70, y=-18.00, z=-11.70]
+[01:09:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/40995, l='ServerLevel[world]', x=-277.30, y=-20.00, z=-10.64]
+[01:10:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/41134, l='ServerLevel[world]', x=-249.43, y=10.00, z=-62.93]
+[01:10:53] [Server thread/INFO]: MaroDvt was struck by lightning while fighting Zombie
+[01:10:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/41317, l='ServerLevel[world]', x=-253.15, y=21.00, z=-6.50]
+[01:10:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/41324, l='ServerLevel[world]', x=-253.22, y=21.50, z=-4.23]
+[01:11:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/41412, l='ServerLevel[world]', x=-256.22, y=21.00, z=-4.85]
+[01:11:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/41427, l='ServerLevel[world]', x=-255.39, y=22.50, z=-3.76]
+[01:11:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Shovel'/41445, l='ServerLevel[world]', x=-255.24, y=16.00, z=-9.62]
+[01:11:24] [Server thread/INFO]: Kotori003 walked into fire while fighting Zombie
+[01:11:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/41528, l='ServerLevel[world]', x=-255.51, y=16.00, z=-10.55]
+[01:11:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/41568, l='ServerLevel[world]', x=-244.56, y=7.69, z=-59.59]
+[01:11:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/41587, l='ServerLevel[world]', x=-248.32, y=7.19, z=-60.45]
+[01:12:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/41746, l='ServerLevel[world]', x=-246.88, y=7.00, z=-60.20]
+[01:12:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/41754, l='ServerLevel[world]', x=-249.72, y=7.00, z=-60.67]
