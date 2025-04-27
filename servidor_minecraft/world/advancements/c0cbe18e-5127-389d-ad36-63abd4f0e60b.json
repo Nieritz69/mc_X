@@ -17,15 +17,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-27 02:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-27 02:06:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-27 02:15:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2025-04-27 02:11:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-04-27 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-04-27 02:11:51 +0000"
     },
     "done": true
   },
@@ -38,6 +62,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-04-27 02:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-27 02:11:51 +0000"
     },
     "done": true
   },
@@ -62,6 +92,18 @@
   "tpa:first_join": {
     "criteria": {
       "tick": "2025-04-27 02:06:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-04-27 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-27 02:15:54 +0000"
     },
     "done": true
   },
@@ -125,6 +167,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-27 02:18:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_axe_repairing": {
+    "criteria": {
+      "has_netherite_axe": "2025-04-27 02:15:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-04-27 02:11:48 +0000"
@@ -149,6 +203,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-27 02:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_helmet": "2025-04-27 02:10:39 +0000"
@@ -157,11 +217,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-04-27 02:18:13 +0000",
       "minecraft:beach": "2025-04-27 02:08:21 +0000",
       "minecraft:forest": "2025-04-27 02:06:28 +0000",
+      "minecraft:ocean": "2025-04-27 02:16:50 +0000",
+      "minecraft:river": "2025-04-27 02:16:53 +0000",
       "minecraft:birch_forest": "2025-04-27 02:09:57 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-04-27 02:18:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-27 02:17:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

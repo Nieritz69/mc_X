@@ -2302,6 +2302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-27 02:13:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-04-27 02:09:48 +0000"
@@ -2317,6 +2323,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-04-27 02:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-27 02:12:50 +0000"
     },
     "done": true
   },
@@ -2356,15 +2368,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 02:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-27 02:04:44 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-27 02:13:11 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_stonecutter": {
     "criteria": {
       "has_stone": "2025-04-27 02:04:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-27 02:13:11 +0000"
     },
     "done": true
   },
