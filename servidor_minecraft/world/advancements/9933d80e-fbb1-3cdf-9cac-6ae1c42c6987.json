@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-04-27 02:04:33 +0000"
@@ -35,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-27 02:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-27 02:19:03 +0000"
@@ -44,6 +56,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-27 02:04:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-04-27 02:23:00 +0000"
     },
     "done": true
   },
@@ -71,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-27 02:23:10 +0000"
+    },
+    "done": true
+  },
   "betternether:root": {
     "criteria": {
       "welcome": "2025-04-27 02:03:26 +0000"
@@ -83,9 +107,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-04-27 02:23:10 +0000"
+    },
+    "done": true
+  },
   "tpa:first_join": {
     "criteria": {
       "tick": "2025-04-27 02:03:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-04-27 02:28:13 +0000"
     },
     "done": true
   },
@@ -110,6 +146,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-27 02:08:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-04-27 02:23:08 +0000"
     },
     "done": true
   },
@@ -140,6 +182,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-04-27 02:23:09 +0000"
     },
     "done": true
   },
@@ -209,9 +263,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-27 02:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
     },
     "done": true
   },
@@ -219,6 +285,7 @@
     "criteria": {
       "minecraft:beach": "2025-04-27 02:04:06 +0000",
       "minecraft:forest": "2025-04-27 02:03:26 +0000",
+      "minecraft:ocean": "2025-04-27 02:23:58 +0000",
       "minecraft:river": "2025-04-27 02:18:08 +0000",
       "minecraft:birch_forest": "2025-04-27 02:17:58 +0000"
     },

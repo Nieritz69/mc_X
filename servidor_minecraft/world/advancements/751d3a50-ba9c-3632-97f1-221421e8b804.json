@@ -2320,6 +2320,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-27 02:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-04-27 02:04:44 +0000"
@@ -2373,6 +2379,12 @@
       "has_obsidian": "2025-04-27 02:12:50 +0000"
     },
     "done": true
+  },
+  "betterend:all_elytras": {
+    "criteria": {
+      "vanilla": "2025-04-27 02:23:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
