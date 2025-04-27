@@ -1,37 +1,7 @@
 {
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
-    },
-    "done": true
-  },
   "rpg_series:root": {
     "criteria": {
       "always": "2025-04-27 02:03:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2025-04-27 02:04:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
     },
     "done": true
   },
@@ -41,57 +11,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "tpa:first_join": {
     "criteria": {
-      "has_lots_of_items": "2025-04-27 02:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-04-27 02:04:33 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2025-04-27 02:23:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-04-27 02:04:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "eternal_starlight:recipes/transportation/northland_boat": {
-    "criteria": {
-      "in_water": "2025-04-27 02:04:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-04-27 02:23:10 +0000"
+      "tick": "2025-04-27 02:03:25 +0000"
     },
     "done": true
   },
@@ -107,27 +29,37 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_boots_repairing": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_netherite_boots": "2025-04-27 02:23:10 +0000"
+      "minecraft:beach": "2025-04-27 02:04:06 +0000",
+      "minecraft:forest": "2025-04-27 02:03:26 +0000",
+      "minecraft:ocean": "2025-04-27 02:23:58 +0000",
+      "minecraft:river": "2025-04-27 02:18:08 +0000",
+      "minecraft:birch_forest": "2025-04-27 02:17:58 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-04-27 02:04:33 +0000"
     },
     "done": true
   },
-  "tpa:first_join": {
+  "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "tick": "2025-04-27 02:03:25 +0000"
+      "in_water": "2025-04-27 02:04:33 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
+  "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "has_netherite_pickaxe": "2025-04-27 02:28:13 +0000"
+      "in_water": "2025-04-27 02:04:33 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+  "eternal_starlight:recipes/transportation/northland_boat": {
     "criteria": {
-      "has_minecraft:stone": "2025-04-27 02:19:03 +0000"
+      "in_water": "2025-04-27 02:04:33 +0000"
     },
     "done": true
   },
@@ -140,18 +72,6 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-27 02:04:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-04-27 02:08:29 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2025-04-27 02:23:08 +0000"
     },
     "done": true
   },
@@ -179,45 +99,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2025-04-27 02:23:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-04-27 02:19:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-27 02:04:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-27 02:05:53 +0000"
     },
     "done": true
   },
@@ -233,15 +117,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-27 02:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-27 02:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-27 02:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-27 02:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-04-27 02:05:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-27 02:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-04-27 02:19:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "in_water": "2025-04-27 02:04:33 +0000"
+      "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_minecraft:stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-27 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-27 02:19:03 +0000"
     },
     "done": true
   },
@@ -263,39 +237,11 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-27 02:28:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-27 02:19:03 +0000"
     },
     "done": true
-  },
-  "travelersbackpack:recipes/misc/lapis": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2025-04-27 02:04:06 +0000",
-      "minecraft:forest": "2025-04-27 02:03:26 +0000",
-      "minecraft:ocean": "2025-04-27 02:23:58 +0000",
-      "minecraft:river": "2025-04-27 02:18:08 +0000",
-      "minecraft:birch_forest": "2025-04-27 02:17:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "enchanted_golden_apple": "2025-04-27 02:05:53 +0000"
-    },
-    "done": false
   },
   "bclib:recipes/decorations/tag_stonecutter": {
     "criteria": {
@@ -303,15 +249,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
-      "in_water": "2025-04-27 02:04:33 +0000"
+      "has_netherite_helmet": "2025-04-27 02:23:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "aether:recipes/combat/netherite_chestplate_repairing": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-04-27 02:05:06 +0000"
+      "has_netherite_chestplate": "2025-04-27 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-04-27 02:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-27 02:23:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-04-27 02:23:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-04-27 02:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-27 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-27 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 02:28:31 +0000"
     },
     "done": true
   },
