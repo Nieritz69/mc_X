@@ -90,6 +90,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-25 22:31:42 +0000",
+      "golden_apple": "2025-04-27 00:33:27 +0000",
       "honey_bottle": "2025-04-26 23:37:10 +0000",
       "rotten_flesh": "2025-04-25 20:23:50 +0000",
       "cooked_mutton": "2025-04-25 20:24:27 +0000",
@@ -5780,63 +5781,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bee": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-26 23:36:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_grate": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/blossom_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-04-26 23:26:26 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-04-26 23:23:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-26 23:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/mace": {
-    "criteria": {
-      "has_breeze_rod": "2025-04-26 23:51:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-04-26 23:50:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/stone_sword_repairing": {
-    "criteria": {
-      "has_stone_sword": "2025-04-26 23:24:55 +0000"
     },
     "done": true
   },
@@ -5846,33 +5793,45 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/wall_red_brown": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_red_mushroom": "2025-04-27 00:04:48 +0000"
+      "has_gunpowder": "2025-04-26 23:23:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
-      "has_red_mushroom": "2025-04-27 00:04:48 +0000"
+      "has_stone_sword": "2025-04-26 23:24:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/waxed_copper_bulb": {
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
-      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+      "has_potion": "2025-04-26 23:26:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
-      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+      "has_potion": "2025-04-26 23:26:26 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-26 23:26:26 +0000"
     },
     "done": true
   },
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-04-26 23:36:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-26 23:36:59 +0000"
     },
     "done": true
   },
@@ -5888,19 +5847,55 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
     "criteria": {
-      "has_potion": "2025-04-26 23:26:26 +0000"
+      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
     },
     "done": true
   },
-  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
     "criteria": {
-      "has_red_mushroom": "2025-04-27 00:04:48 +0000"
+      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
     },
@@ -5918,27 +5913,45 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-26 23:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-26 23:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-04-26 23:51:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-04-26 23:51:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+  "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
-      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+      "has_red_mushroom": "2025-04-27 00:04:48 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_potion": "2025-04-26 23:26:26 +0000"
+      "has_red_mushroom": "2025-04-27 00:04:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
-      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+      "has_red_mushroom": "2025-04-27 00:04:48 +0000"
     },
     "done": true
   },
@@ -5948,15 +5961,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_gunpowder": "2025-04-26 23:23:08 +0000"
+      "has_waxed_oxidized_copper": "2025-04-27 00:37:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_waxed_copper_block": "2025-04-26 23:41:54 +0000"
+      "has_waxed_oxidized_copper": "2025-04-27 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-04-27 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-04-27 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-04-27 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-04-27 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-04-27 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-04-27 00:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-04-27 00:37:04 +0000"
     },
     "done": true
   },
