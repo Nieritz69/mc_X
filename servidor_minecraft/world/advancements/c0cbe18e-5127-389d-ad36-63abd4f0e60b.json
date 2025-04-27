@@ -34,6 +34,7 @@
       "minecraft:old_growth_birch_forest": "2025-04-27 02:18:13 +0000",
       "minecraft:beach": "2025-04-27 02:08:21 +0000",
       "minecraft:forest": "2025-04-27 02:06:28 +0000",
+      "minecraft:taiga": "2025-04-27 02:38:05 +0000",
       "minecraft:ocean": "2025-04-27 02:16:50 +0000",
       "minecraft:river": "2025-04-27 02:16:53 +0000",
       "minecraft:birch_forest": "2025-04-27 02:09:57 +0000"
@@ -342,6 +343,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-27 02:38:07 +0000",
       "minecraft:zombie": "2025-04-27 02:31:51 +0000"
     },
     "done": false
@@ -370,18 +372,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2025-04-27 02:35:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-04-27 02:35:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-04-27 02:35:18 +0000"
@@ -400,6 +390,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-04-27 02:35:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-27 02:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-04-27 02:35:28 +0000"
@@ -409,6 +411,36 @@
   "spellbound_weapons:recipe/windsweeper": {
     "criteria": {
       "3": "2025-04-27 02:35:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-27 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-27 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-27 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:arrow": {
+    "criteria": {
+      "requirement": "2025-04-27 02:38:07 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-04-27 02:38:07 +0000"
     },
     "done": true
   },
