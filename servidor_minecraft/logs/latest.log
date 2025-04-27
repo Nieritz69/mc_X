@@ -525,3 +525,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.Cust
 [01:29:59] [Server thread/INFO]: MaroDvt left the game
 [01:29:59] [Server thread/INFO]: [voicechat] Disconnecting client MaroDvt
 [01:31:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/45701, l='ServerLevel[world]', x=-238.23, y=65.00, z=-67.29]
+[01:37:12] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.6-fabric.jar:?]
+	at me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-16.0.783-fabric.jar:?]
+	at dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.6-fabric.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-ab3b3e32ee244de7.jar:?]
+	at MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasks(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:39:02] [Server thread/WARN]: Rei_Astora moved too quickly! 3.5187751136749057,-10.111131385027747,-2.392094995005344
+[01:39:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/46749, l='ServerLevel[world]', x=-278.01, y=34.35, z=-168.76]
+[01:40:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/47147, l='ServerLevel[world]', x=-283.59, y=-20.00, z=-12.48]
+[01:41:58] [Server thread/WARN]: Rei_Astora moved too quickly! -0.31295208625223836,-11.026982712340185,0.541505348509844
+[01:42:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/47575, l='ServerLevel[world]', x=-191.60, y=3.51, z=-145.60]
