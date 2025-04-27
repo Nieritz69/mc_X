@@ -323,3 +323,109 @@
 [00:51:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/36983, l='ServerLevel[world]', x=-278.11, y=-20.00, z=2.55]
 [00:51:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/36984, l='ServerLevel[world]', x=-278.11, y=-20.00, z=2.55]
 [00:51:57] [Server thread/INFO]: MaroDvt was doomed to fall
+[00:52:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/37083, l='ServerLevel[world]', x=-274.30, y=-20.00, z=16.30]
+[00:52:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/37084, l='ServerLevel[world]', x=-274.30, y=-20.00, z=16.30]
+[00:52:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/37123, l='ServerLevel[world]', x=-273.94, y=-20.50, z=23.06]
+[00:52:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/37203, l='ServerLevel[world]', x=-273.91, y=-13.00, z=-6.59]
+[00:52:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Poison'/37204, l='ServerLevel[world]', x=-273.91, y=-13.00, z=-6.59]
+[00:53:00] [Server thread/INFO]: MaroDvt was slain by Zombie
+[00:54:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/37485, l='ServerLevel[world]', x=-270.60, y=17.00, z=6.40]
+[00:54:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/37541, l='ServerLevel[world]', x=-282.66, y=-20.00, z=17.75]
+[00:55:44] [Server thread/INFO]: <Kotori003> asd
+[00:55:47] [Server thread/INFO]: Kotori003 lost connection: Disconnected
+[00:55:47] [Server thread/INFO]: Kotori003 left the game
+[00:55:47] [Server thread/INFO]: [voicechat] Disconnecting client Kotori003
+[00:56:03] [Server thread/INFO]: Kotori003[/192.168.195.156:48113] logged in with entity id 37879 at (-283.8571416096448, -14.5, 39.96145837055384)
+[00:56:03] [Server thread/INFO]: Sending server config values to client
+[00:56:03] [Server thread/INFO]: Loading config from file...
+[00:56:03] [Server thread/INFO]: Kotori003 joined the game
+[00:56:05] [Server thread/INFO]: [voicechat] Received secret request of Kotori003 (18)
+[00:56:05] [Server thread/INFO]: [voicechat] Sent secret to Kotori003
+[00:56:05] [Server thread/INFO]: Receiving client config
+[00:56:05] [Server thread/INFO]: [ShulkerBoxTooltip] Kotori003: protocol version: 2.0
+[00:56:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5
+[00:56:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5
+[00:56:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Kotori003 (f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5) successfully connected to voice chat
+[00:56:25] [Server thread/INFO]: MaroDvt was slain by Kotori003
+[00:56:36] [Server thread/INFO]: <Kotori003> asd
+[00:56:37] [Server thread/INFO]: Kotori003 lost connection: Disconnected
+[00:56:37] [Server thread/INFO]: Kotori003 left the game
+[00:56:37] [Server thread/INFO]: [voicechat] Disconnecting client Kotori003
+[00:56:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38050, l='ServerLevel[world]', x=-279.80, y=-15.00, z=49.22]
+[00:56:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38065, l='ServerLevel[world]', x=-274.86, y=-15.00, z=50.52]
+[00:56:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38070, l='ServerLevel[world]', x=-275.41, y=-15.00, z=50.47]
+[00:56:53] [Server thread/INFO]: Kotori003[/192.168.195.156:48167] logged in with entity id 38101 at (-272.69999998807907, -15.0, 62.69025929822117)
+[00:56:53] [Server thread/INFO]: Sending server config values to client
+[00:56:53] [Server thread/INFO]: Loading config from file...
+[00:56:53] [Server thread/INFO]: Kotori003 joined the game
+[00:56:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38112, l='ServerLevel[world]', x=-268.87, y=-15.00, z=55.85]
+[00:56:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38116, l='ServerLevel[world]', x=-269.61, y=-15.00, z=55.57]
+[00:56:55] [Server thread/INFO]: [voicechat] Received secret request of Kotori003 (18)
+[00:56:55] [Server thread/INFO]: [voicechat] Sent secret to Kotori003
+[00:56:55] [Server thread/INFO]: Receiving client config
+[00:56:55] [Server thread/INFO]: [ShulkerBoxTooltip] Kotori003: protocol version: 2.0
+[00:56:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5
+[00:56:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38130, l='ServerLevel[world]', x=-268.40, y=-15.00, z=56.62]
+[00:56:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5
+[00:56:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Kotori003 (f2f09e33-7af2-3d0e-9f5a-8ef514d9a6e5) successfully connected to voice chat
+[00:57:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38147, l='ServerLevel[world]', x=-268.15, y=-15.00, z=60.07]
+[00:57:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Baked Potato'/38237, l='ServerLevel[world]', x=-271.45, y=-15.00, z=55.21]
+[00:57:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38252, l='ServerLevel[world]', x=-277.56, y=-15.00, z=50.31]
+[00:57:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/38283, l='ServerLevel[world]', x=-281.73, y=-14.20, z=48.48]
+[00:57:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/38322, l='ServerLevel[world]', x=-282.30, y=-15.00, z=52.85]
+[00:57:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/38425, l='ServerLevel[world]', x=-286.45, y=-10.00, z=55.70]
+[00:57:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/38426, l='ServerLevel[world]', x=-286.45, y=-10.00, z=55.70]
+[00:58:01] [Server thread/INFO]: MaroDvt was shot by Bogged
+[00:58:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/38481, l='ServerLevel[world]', x=-286.21, y=-8.00, z=49.61]
+[00:58:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/38482, l='ServerLevel[world]', x=-286.21, y=-8.00, z=49.61]
+[00:58:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/38495, l='ServerLevel[world]', x=-287.25, y=-10.00, z=53.93]
+[00:58:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/38496, l='ServerLevel[world]', x=-287.25, y=-10.00, z=53.93]
+[00:58:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Poison'/38497, l='ServerLevel[world]', x=-287.25, y=-10.00, z=53.93]
+[00:58:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Poison'/38520, l='ServerLevel[world]', x=-290.68, y=-10.00, z=54.04]
+[00:58:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/38623, l='ServerLevel[world]', x=-280.98, y=-8.00, z=40.50]
+[00:58:44] [Server thread/INFO]: MaroDvt was shot by MaroDvt
+[00:58:49] [Server thread/INFO]: <Kotori003> asd
+[00:59:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Breeze Rod'/38739, l='ServerLevel[world]', x=-279.48, y=-9.00, z=57.30]
+[00:59:23] [Server thread/INFO]: Kotori003 was slain by Breeze
+[00:59:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Breeze Rod'/38863, l='ServerLevel[world]', x=-266.61, y=-8.00, z=55.37]
+[01:00:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Breeze Rod'/38995, l='ServerLevel[world]', x=-277.80, y=-10.00, z=59.17]
+[01:00:38] [Server thread/INFO]: <Kotori003> asd
+[01:00:54] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.network.packet.CustomPayload$Id.comp_2242()" because "type" is null
+	at dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-13.0.6-fabric.jar:?]
+	at me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-16.0.783-fabric.jar:?]
+	at dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-13.0.6-fabric.jar:?]
+	at dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-13.0.6-fabric.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-ab3b3e32ee244de7.jar:?]
+	at MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasks(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:01:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/39142, l='ServerLevel[world]', x=-287.21, y=-8.00, z=50.62]
+[01:01:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/39170, l='ServerLevel[world]', x=-286.61, y=-8.00, z=48.97]
+[01:01:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/39171, l='ServerLevel[world]', x=-286.61, y=-8.00, z=48.97]
+[01:01:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Poison'/39172, l='ServerLevel[world]', x=-286.61, y=-8.00, z=48.97]
+[01:01:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/39212, l='ServerLevel[world]', x=-284.03, y=-14.00, z=55.58]
+[01:01:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/39243, l='ServerLevel[world]', x=-290.06, y=-8.00, z=49.27]
+[01:01:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/39250, l='ServerLevel[world]', x=-289.70, y=-8.00, z=51.31]
+[01:01:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Poison'/39251, l='ServerLevel[world]', x=-289.70, y=-8.00, z=51.31]
+[01:01:40] [Server thread/INFO]: MaroDvt was struck by lightning while fighting Bogged
+[01:01:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/39319, l='ServerLevel[world]', x=-285.56, y=-10.00, z=43.70]
+[01:01:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/39320, l='ServerLevel[world]', x=-285.56, y=-10.00, z=43.70]
+[01:01:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Poison'/39321, l='ServerLevel[world]', x=-285.56, y=-10.00, z=43.70]
